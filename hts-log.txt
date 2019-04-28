@@ -1,0 +1,337 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 28 Apr 2019 14:28:55 at https://www.jump6.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.jump6.com/ -O1 "C:\My Web Sites\Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:05	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.jump6.com/)
+14:29:12	Error: 	"Not Found" (404) at link https://www.jump6.com/866-375-2452 (from https://www.jump6.com/)
+14:30:24	Warning: 	Moved Permanently for https://www.jump6.com/contact-us/
+14:30:24	Warning: 	File has moved from https://www.jump6.com/contact-us/ to /contact-weight-loss-surgeon-toronto/
+14:30:30	Warning: 	Moved Permanently for https://www.jump6.com/before-after-photos-toronto/
+14:30:30	Warning: 	File has moved from https://www.jump6.com/before-after-photos-toronto/ to /before-after-photos-toronto/patients/
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=9
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=9 to https://www.jump6.com/jump6-system-toronto/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3338
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3338 to https://www.jump6.com/jump6-system-toronto/how-does-jump6-work/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/how-does-jump6-work/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/how-does-jump6-work/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3339
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3339 to https://www.jump6.com/jump6-system-toronto/intragastric-balloon-candidates/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/intragastric-balloon-candidates/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/intragastric-balloon-candidates/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3340
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3340 to https://www.jump6.com/jump6-system-toronto/how-is-jump6-different/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/how-is-jump6-different/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/how-is-jump6-different/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3341
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3341 to https://www.jump6.com/jump6-system-toronto/frequently-asked-questions/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/frequently-asked-questions/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/frequently-asked-questions/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3342
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3342 to https://www.jump6.com/jump6-system-toronto/weight-loss-facts/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/weight-loss-facts/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/weight-loss-facts/)
+14:30:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3343
+14:30:41	Warning: 	File has moved from https://www.jump6.com/?p=3343 to https://www.jump6.com/jump6-system-toronto/media/
+14:30:41	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/media/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/media/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3344
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3344 to https://www.jump6.com/jump6-system-toronto/patient-information-videos/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/jump6-system-toronto/patient-information-videos/866-375-2452 (from https://www.jump6.com/jump6-system-toronto/patient-information-videos/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=10
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=10 to https://www.jump6.com/weight-loss-packages-toronto/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-packages-toronto/866-375-2452 (from https://www.jump6.com/weight-loss-packages-toronto/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3346
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3346 to https://www.jump6.com/weight-loss-packages-toronto/patients-from-the-us/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-packages-toronto/patients-from-the-us/866-375-2452 (from https://www.jump6.com/weight-loss-packages-toronto/patients-from-the-us/)
+14:30:51	Warning: 	Link https://www.jump6.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3347
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3347 to https://www.jump6.com/weight-loss-packages-toronto/male-cosmetic-surgery/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-packages-toronto/male-cosmetic-surgery/866-375-2452 (from https://www.jump6.com/weight-loss-packages-toronto/male-cosmetic-surgery/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3348
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3348 to https://www.jump6.com/weight-loss-packages-toronto/beauty-from-the-inside-out/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-packages-toronto/beauty-from-the-inside-out/866-375-2452 (from https://www.jump6.com/weight-loss-packages-toronto/beauty-from-the-inside-out/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3349
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3349 to https://www.jump6.com/weight-loss-packages-toronto/mommy-makeover/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-packages-toronto/mommy-makeover/866-375-2452 (from https://www.jump6.com/weight-loss-packages-toronto/mommy-makeover/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=11
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=11 to https://www.jump6.com/health-fitness-lifestyle-toronto/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/)
+14:30:51	Warning: 	Moved Permanently for https://www.jump6.com/?p=3350
+14:30:51	Warning: 	File has moved from https://www.jump6.com/?p=3350 to https://www.jump6.com/health-fitness-lifestyle-toronto/recipes/
+14:30:51	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/recipes/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/recipes/)
+14:31:11	Warning: 	Moved Permanently for https://www.jump6.com/?p=3351
+14:31:11	Warning: 	File has moved from https://www.jump6.com/?p=3351 to https://www.jump6.com/health-fitness-lifestyle-toronto/intra-gastric-balloon-story/
+14:31:11	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/intra-gastric-balloon-story/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/intra-gastric-balloon-story/)
+14:31:11	Warning: 	Moved Permanently for https://www.jump6.com/?p=3352
+14:31:11	Warning: 	File has moved from https://www.jump6.com/?p=3352 to https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-team/
+14:31:11	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-team/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-team/)
+14:31:11	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/jump6-clinic-locations/ (from https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-team/)
+14:31:11	Warning: 	Moved Permanently for https://www.jump6.com/?p=3353
+14:31:11	Warning: 	File has moved from https://www.jump6.com/?p=3353 to https://www.jump6.com/health-fitness-lifestyle-toronto/food-facts/
+14:31:11	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/food-facts/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/food-facts/)
+14:31:28	Warning: 	Moved Permanently for https://www.jump6.com/?p=3354
+14:31:28	Warning: 	File has moved from https://www.jump6.com/?p=3354 to https://www.jump6.com/health-fitness-lifestyle-toronto/motivational-fun-facts/
+14:31:28	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/motivational-fun-facts/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/motivational-fun-facts/)
+14:31:28	Warning: 	Moved Permanently for https://www.jump6.com/?p=3355
+14:31:28	Warning: 	File has moved from https://www.jump6.com/?p=3355 to https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-goal-quiz/
+14:31:28	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-goal-quiz/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/weight-loss-goal-quiz/)
+14:31:28	Warning: 	Moved Permanently for https://www.jump6.com/?p=3356
+14:31:28	Warning: 	File has moved from https://www.jump6.com/?p=3356 to https://www.jump6.com/health-fitness-lifestyle-toronto/nutrition-edition/
+14:31:28	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/nutrition-edition/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/nutrition-edition/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=12
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=12 to https://www.jump6.com/weight-loss-services-toronto/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-services-toronto/866-375-2452 (from https://www.jump6.com/weight-loss-services-toronto/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3359
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3359 to https://www.jump6.com/weight-loss-services-toronto/vbloc/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-services-toronto/vbloc/866-375-2452 (from https://www.jump6.com/weight-loss-services-toronto/vbloc/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3360
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3360 to https://www.jump6.com/weight-loss-services-toronto/lap-band/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-services-toronto/lap-band/866-375-2452 (from https://www.jump6.com/weight-loss-services-toronto/lap-band/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3361
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3361 to https://www.jump6.com/weight-loss-services-toronto/gastric-sleeve/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-services-toronto/gastric-sleeve/866-375-2452 (from https://www.jump6.com/weight-loss-services-toronto/gastric-sleeve/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3362
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3362 to https://www.jump6.com/weight-loss-services-toronto/lap-band-removal/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/weight-loss-services-toronto/lap-band-removal/866-375-2452 (from https://www.jump6.com/weight-loss-services-toronto/lap-band-removal/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=13
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=13 to https://www.jump6.com/contact-weight-loss-surgeon-toronto/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/866-375-2452 (from https://www.jump6.com/contact-weight-loss-surgeon-toronto/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3363
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3363 to https://www.jump6.com/contact-weight-loss-surgeon-toronto/request-a-consultation/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/request-a-consultation/866-375-2452 (from https://www.jump6.com/contact-weight-loss-surgeon-toronto/request-a-consultation/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3554
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3554 to https://www.jump6.com/intake-form/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/intake-form/866-375-2452 (from https://www.jump6.com/intake-form/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3364
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3364 to https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/866-375-2452 (from https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/)
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/contact-weight-loss-surgeon-toronto/jump6-clinic-locations/dr-alrashid/
+14:31:45	Warning: 	File has moved from https://www.jump6.com/contact-weight-loss-surgeon-toronto/jump6-clinic-locations/dr-alrashid/ to https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/dr-alrashid/
+14:31:45	Warning: 	Moved Permanently for https://www.jump6.com/?p=3365
+14:31:45	Warning: 	File has moved from https://www.jump6.com/?p=3365 to https://www.jump6.com/contact-weight-loss-surgeon-toronto/patient-payment-plans/
+14:31:45	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/patient-payment-plans/866-375-2452 (from https://www.jump6.com/contact-weight-loss-surgeon-toronto/patient-payment-plans/)
+14:31:51	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/866-375-2452 (from https://www.jump6.com/blog/)
+14:32:09	Warning: 	Moved Permanently for https://www.jump6.com/?p=3522
+14:32:09	Warning: 	File has moved from https://www.jump6.com/?p=3522 to https://www.jump6.com/health-fitness-lifestyle-toronto/testimonials/
+14:32:09	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/testimonials/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/testimonials/)
+14:32:10	Warning: 	Moved Permanently for https://www.jump6.com/?p=27
+14:32:10	Warning: 	File has moved from https://www.jump6.com/?p=27 to https://www.jump6.com/terms-of-use/
+14:32:11	Error: 	"Not Found" (404) at link https://www.jump6.com/terms-of-use/866-375-2452 (from https://www.jump6.com/terms-of-use/)
+14:32:11	Warning: 	Moved Permanently for https://www.jump6.com/?p=28
+14:32:11	Warning: 	File has moved from https://www.jump6.com/?p=28 to https://www.jump6.com/sitemap/
+14:32:11	Error: 	"Not Found" (404) at link https://www.jump6.com/sitemap/866-375-2452 (from https://www.jump6.com/sitemap/)
+14:32:16	Warning: 	Moved Permanently for https://www.jump6.com/?p=29
+14:32:16	Warning: 	File has moved from https://www.jump6.com/?p=29 to https://www.jump6.com/privacy-policy/
+14:32:16	Error: 	"Not Found" (404) at link https://www.jump6.com/privacy-policy/866-375-2452 (from https://www.jump6.com/privacy-policy/)
+14:32:16	Warning: 	Moved Permanently for https://www.jump6.com/?p=32
+14:32:16	Warning: 	File has moved from https://www.jump6.com/?p=32 to https://www.jump6.com/thank-you/
+14:32:16	Error: 	"Not Found" (404) at link https://www.jump6.com/thank-you/866-375-2452 (from https://www.jump6.com/thank-you/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3449
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3449 to https://www.jump6.com/in-the-media/impatience-to-get-thin-sends-some-to-canada/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/impatience-to-get-thin-sends-some-to-canada/866-375-2452 (from https://www.jump6.com/in-the-media/impatience-to-get-thin-sends-some-to-canada/)
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/category/in-the-media/866-375-2452 (from https://www.jump6.com/category/in-the-media/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3444
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3444 to https://www.jump6.com/in-the-media/she-did-it-carole-rondeau/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/she-did-it-carole-rondeau/866-375-2452 (from https://www.jump6.com/in-the-media/she-did-it-carole-rondeau/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3443
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3443 to https://www.jump6.com/in-the-media/a-blue-way-to-lose-weight/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/a-blue-way-to-lose-weight/866-375-2452 (from https://www.jump6.com/in-the-media/a-blue-way-to-lose-weight/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3442
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3442 to https://www.jump6.com/in-the-media/gastric-balloon-offers-weight-loss-hope/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/gastric-balloon-offers-weight-loss-hope/866-375-2452 (from https://www.jump6.com/in-the-media/gastric-balloon-offers-weight-loss-hope/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3441
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3441 to https://www.jump6.com/in-the-media/balloon-procedure-helps-reverse-obesity/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/balloon-procedure-helps-reverse-obesity/866-375-2452 (from https://www.jump6.com/in-the-media/balloon-procedure-helps-reverse-obesity/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3438
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3438 to https://www.jump6.com/in-the-media/balloon-treatment-boosts-battle-of-the-bulge/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/in-the-media/balloon-treatment-boosts-battle-of-the-bulge/866-375-2452 (from https://www.jump6.com/in-the-media/balloon-treatment-boosts-battle-of-the-bulge/)
+14:32:17	Warning: 	Moved Permanently for https://www.jump6.com/?p=3428
+14:32:17	Warning: 	File has moved from https://www.jump6.com/?p=3428 to https://www.jump6.com/recipes/mediterranean-3-bean-salad/
+14:32:17	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/mediterranean-3-bean-salad/866-375-2452 (from https://www.jump6.com/recipes/mediterranean-3-bean-salad/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/category/recipes/866-375-2452 (from https://www.jump6.com/category/recipes/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3427
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3427 to https://www.jump6.com/recipes/strawberry-chicken-feta-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/strawberry-chicken-feta-salad/866-375-2452 (from https://www.jump6.com/recipes/strawberry-chicken-feta-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3426
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3426 to https://www.jump6.com/recipes/broccoli-apple-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/broccoli-apple-salad/866-375-2452 (from https://www.jump6.com/recipes/broccoli-apple-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3425
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3425 to https://www.jump6.com/recipes/blt-chicken-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/blt-chicken-salad/866-375-2452 (from https://www.jump6.com/recipes/blt-chicken-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3423
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3423 to https://www.jump6.com/recipes/kale-super-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/kale-super-salad/866-375-2452 (from https://www.jump6.com/recipes/kale-super-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3422
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3422 to https://www.jump6.com/recipes/buffalo-chicken-taco-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/buffalo-chicken-taco-salad/866-375-2452 (from https://www.jump6.com/recipes/buffalo-chicken-taco-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3409
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3409 to https://www.jump6.com/recipes/kale-recipes/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/kale-recipes/866-375-2452 (from https://www.jump6.com/recipes/kale-recipes/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3407
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3407 to https://www.jump6.com/recipes/mesclun-mix-with-cranberries-and-walnuts/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/mesclun-mix-with-cranberries-and-walnuts/866-375-2452 (from https://www.jump6.com/recipes/mesclun-mix-with-cranberries-and-walnuts/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3406
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3406 to https://www.jump6.com/recipes/what-is-mesclun-salad/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/what-is-mesclun-salad/866-375-2452 (from https://www.jump6.com/recipes/what-is-mesclun-salad/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3405
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3405 to https://www.jump6.com/recipes/easy-sides/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/easy-sides/866-375-2452 (from https://www.jump6.com/recipes/easy-sides/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3327
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3327 to https://www.jump6.com/food-facts/sugar-content-in-fruit/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/sugar-content-in-fruit/866-375-2452 (from https://www.jump6.com/food-facts/sugar-content-in-fruit/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/category/food-facts/866-375-2452 (from https://www.jump6.com/category/food-facts/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3324
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3324 to https://www.jump6.com/food-facts/things-to-eat-after-8pm/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/things-to-eat-after-8pm/866-375-2452 (from https://www.jump6.com/food-facts/things-to-eat-after-8pm/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3321
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3321 to https://www.jump6.com/food-facts/weight-loss-and-staying-motivated/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/weight-loss-and-staying-motivated/866-375-2452 (from https://www.jump6.com/food-facts/weight-loss-and-staying-motivated/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3318
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3318 to https://www.jump6.com/food-facts/8-best-fat-burning-foods/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/8-best-fat-burning-foods/866-375-2452 (from https://www.jump6.com/food-facts/8-best-fat-burning-foods/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3306
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3306 to https://www.jump6.com/food-facts/emotions-that-can-lead-to-overeating/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/emotions-that-can-lead-to-overeating/866-375-2452 (from https://www.jump6.com/food-facts/emotions-that-can-lead-to-overeating/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3304
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3304 to https://www.jump6.com/food-facts/benefits-of-chia-seeds/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/benefits-of-chia-seeds/866-375-2452 (from https://www.jump6.com/food-facts/benefits-of-chia-seeds/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3302
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3302 to https://www.jump6.com/food-facts/eat-out-and-still-lose-weight/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/eat-out-and-still-lose-weight/866-375-2452 (from https://www.jump6.com/food-facts/eat-out-and-still-lose-weight/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3297
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3297 to https://www.jump6.com/food-facts/what-is-gmo/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/food-facts/what-is-gmo/866-375-2452 (from https://www.jump6.com/food-facts/what-is-gmo/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3530
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3530 to https://www.jump6.com/nutrition-edition/new-years-resolutions-dos-and-donts/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/new-years-resolutions-dos-and-donts/866-375-2452 (from https://www.jump6.com/nutrition-edition/new-years-resolutions-dos-and-donts/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/category/nutrition-edition/866-375-2452 (from https://www.jump6.com/category/nutrition-edition/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3268
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3268 to https://www.jump6.com/nutrition-edition/can-anti-inflammatory-foods-really-help/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/can-anti-inflammatory-foods-really-help/866-375-2452 (from https://www.jump6.com/nutrition-edition/can-anti-inflammatory-foods-really-help/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3262
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3262 to https://www.jump6.com/nutrition-edition/list-of-anti-inflammatory-foods/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/list-of-anti-inflammatory-foods/866-375-2452 (from https://www.jump6.com/nutrition-edition/list-of-anti-inflammatory-foods/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3269
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3269 to https://www.jump6.com/nutrition-edition/kale/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/kale/866-375-2452 (from https://www.jump6.com/nutrition-edition/kale/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3267
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3267 to https://www.jump6.com/nutrition-edition/16-under-100-calorie-foods/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/16-under-100-calorie-foods/866-375-2452 (from https://www.jump6.com/nutrition-edition/16-under-100-calorie-foods/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3272
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3272 to https://www.jump6.com/nutrition-edition/what-is-hunger-and-understanding-it/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/what-is-hunger-and-understanding-it/866-375-2452 (from https://www.jump6.com/nutrition-edition/what-is-hunger-and-understanding-it/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3270
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3270 to https://www.jump6.com/nutrition-edition/the-real-truth-behind-nutrition-fads/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/the-real-truth-behind-nutrition-fads/866-375-2452 (from https://www.jump6.com/nutrition-edition/the-real-truth-behind-nutrition-fads/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/wp-content/uploads/2019/01/nuitition/sault.png (from https://www.jump6.com/nutrition-edition/the-real-truth-behind-nutrition-fads/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3273
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3273 to https://www.jump6.com/nutrition-edition/registered-dietitian-vs-nutritionist/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/registered-dietitian-vs-nutritionist/866-375-2452 (from https://www.jump6.com/nutrition-edition/registered-dietitian-vs-nutritionist/)
+14:32:18	Warning: 	Moved Permanently for https://www.jump6.com/?p=3271
+14:32:18	Warning: 	File has moved from https://www.jump6.com/?p=3271 to https://www.jump6.com/nutrition-edition/are-organic-foods-more-nutritious/
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/nutrition-edition/are-organic-foods-more-nutritious/866-375-2452 (from https://www.jump6.com/nutrition-edition/are-organic-foods-more-nutritious/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/page/2/866-375-2452 (from https://www.jump6.com/blog/page/2/)
+14:32:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3562
+14:32:41	Warning: 	File has moved from https://www.jump6.com/?p=3562 to https://www.jump6.com/uncategorized/the-lap-band-system-allows-you-to-lose-weight-effectively/
+14:32:41	Error: 	"Not Found" (404) at link https://www.jump6.com/uncategorized/the-lap-band-system-allows-you-to-lose-weight-effectively/866-375-2452 (from https://www.jump6.com/uncategorized/the-lap-band-system-allows-you-to-lose-weight-effectively/)
+14:32:41	Warning: 	Moved Permanently for https://www.jump6.com/?p=3534
+14:32:41	Warning: 	File has moved from https://www.jump6.com/?p=3534 to https://www.jump6.com/uncategorized/patience-and-hard-work/
+14:32:41	Error: 	"Not Found" (404) at link https://www.jump6.com/uncategorized/patience-and-hard-work/866-375-2452 (from https://www.jump6.com/uncategorized/patience-and-hard-work/)
+14:32:41	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/page/3/866-375-2452 (from https://www.jump6.com/blog/page/3/)
+14:32:47	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/page/4/866-375-2452 (from https://www.jump6.com/blog/page/4/)
+14:32:59	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/page/5/866-375-2452 (from https://www.jump6.com/blog/page/5/)
+14:32:59	Error: 	"Not Found" (404) at link https://www.jump6.com/blog/page/6/866-375-2452 (from https://www.jump6.com/blog/page/6/)
+14:32:59	Error: 	"Not Found" (404) at link https://www.jump6.com/2019/04/866-375-2452 (from https://www.jump6.com/2019/04/)
+14:33:00	Error: 	"Not Found" (404) at link https://www.jump6.com/2019/01/866-375-2452 (from https://www.jump6.com/2019/01/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2017/08/866-375-2452 (from https://www.jump6.com/2017/08/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2017/07/866-375-2452 (from https://www.jump6.com/2017/07/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2017/06/866-375-2452 (from https://www.jump6.com/2017/06/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2011/03/866-375-2452 (from https://www.jump6.com/2011/03/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2011/02/866-375-2452 (from https://www.jump6.com/2011/02/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2011/01/866-375-2452 (from https://www.jump6.com/2011/01/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2010/09/866-375-2452 (from https://www.jump6.com/2010/09/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/2010/05/866-375-2452 (from https://www.jump6.com/2010/05/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/before-after-photos-toronto/patients/feed/ (from https://www.jump6.com/before-after-photos-toronto/patients/)
+14:33:01	Error: 	"Not Found" (404) at link https://www.jump6.com/before-after-photos-toronto/patients/866-375-2452 (from https://www.jump6.com/before-after-photos-toronto/patients/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3462
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3462 to https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/dr-alrashid/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/dr-alrashid/866-375-2452 (from https://www.jump6.com/contact-weight-loss-surgeon-toronto/clinic-locations/dr-alrashid/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3357
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3357 to https://www.jump6.com/health-fitness-lifestyle-toronto/ready-to-jump-start-your-september/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/health-fitness-lifestyle-toronto/ready-to-jump-start-your-september/866-375-2452 (from https://www.jump6.com/health-fitness-lifestyle-toronto/ready-to-jump-start-your-september/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=26
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=26 to https://www.jump6.com/hipaa-privacy-policy/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/hipaa-privacy-policy/866-375-2452 (from https://www.jump6.com/hipaa-privacy-policy/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/category/recipes/page/2/866-375-2452 (from https://www.jump6.com/category/recipes/page/2/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/category/recipes/page/3/866-375-2452 (from https://www.jump6.com/category/recipes/page/3/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3404
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3404 to https://www.jump6.com/recipes/for-the-sweet-tooth/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/for-the-sweet-tooth/866-375-2452 (from https://www.jump6.com/recipes/for-the-sweet-tooth/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3370
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3370 to https://www.jump6.com/recipes/10-food-combinations-for-weigth-loss/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/10-food-combinations-for-weigth-loss/866-375-2452 (from https://www.jump6.com/recipes/10-food-combinations-for-weigth-loss/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3369
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3369 to https://www.jump6.com/recipes/breakfast-recipes/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/breakfast-recipes/866-375-2452 (from https://www.jump6.com/recipes/breakfast-recipes/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3402
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3402 to https://www.jump6.com/recipes/snack-ideas/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/snack-ideas/866-375-2452 (from https://www.jump6.com/recipes/snack-ideas/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3367
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3367 to https://www.jump6.com/recipes/super-salads/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/super-salads/866-375-2452 (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/buffalo-chicken-taco-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/broccoli-apple-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/kale-super-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/strawberry-chicken-feta-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/blt-chicken-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/mediterranean-3-bean-salad/ (from https://www.jump6.com/recipes/super-salads/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3366
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3366 to https://www.jump6.com/recipes/what-is-clean-eating/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/what-is-clean-eating/866-375-2452 (from https://www.jump6.com/recipes/what-is-clean-eating/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3358
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3358 to https://www.jump6.com/recipes/simple-no-cook-snacks/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/simple-no-cook-snacks/866-375-2452 (from https://www.jump6.com/recipes/simple-no-cook-snacks/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3329
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3329 to https://www.jump6.com/recipes/5-ways-lemon-apple-cider-boost-weight-loss-wellness/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/5-ways-lemon-apple-cider-boost-weight-loss-wellness/866-375-2452 (from https://www.jump6.com/recipes/5-ways-lemon-apple-cider-boost-weight-loss-wellness/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3322
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3322 to https://www.jump6.com/recipes/how-to-boost-weight-loss-wellness-a-morning-drink-to-pave-the-way/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/how-to-boost-weight-loss-wellness-a-morning-drink-to-pave-the-way/866-375-2452 (from https://www.jump6.com/recipes/how-to-boost-weight-loss-wellness-a-morning-drink-to-pave-the-way/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3320
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3320 to https://www.jump6.com/recipes/clean-recipes/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/clean-recipes/866-375-2452 (from https://www.jump6.com/recipes/clean-recipes/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3314
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3314 to https://www.jump6.com/recipes/healthy-lunch-wraps/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/healthy-lunch-wraps/866-375-2452 (from https://www.jump6.com/recipes/healthy-lunch-wraps/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3300
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3300 to https://www.jump6.com/recipes/7-delicious-super-healthy-recipes-for-weight-loss/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/7-delicious-super-healthy-recipes-for-weight-loss/866-375-2452 (from https://www.jump6.com/recipes/7-delicious-super-healthy-recipes-for-weight-loss/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3298
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3298 to https://www.jump6.com/recipes/a-clever-way-to-bake-several-flavors-of-chicken-all-at-once/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/a-clever-way-to-bake-several-flavors-of-chicken-all-at-once/866-375-2452 (from https://www.jump6.com/recipes/a-clever-way-to-bake-several-flavors-of-chicken-all-at-once/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3296
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3296 to https://www.jump6.com/recipes/oat-squares/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/oat-squares/866-375-2452 (from https://www.jump6.com/recipes/oat-squares/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3295
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3295 to https://www.jump6.com/recipes/apple-peanut-butter-cookies-love-these/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/apple-peanut-butter-cookies-love-these/866-375-2452 (from https://www.jump6.com/recipes/apple-peanut-butter-cookies-love-these/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3294
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3294 to https://www.jump6.com/recipes/oatmeal-bake-crock-pot-style-soooo-easy/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/oatmeal-bake-crock-pot-style-soooo-easy/866-375-2452 (from https://www.jump6.com/recipes/oatmeal-bake-crock-pot-style-soooo-easy/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3293
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3293 to https://www.jump6.com/recipes/weight-loss-and-fat-burning-smoothies/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/weight-loss-and-fat-burning-smoothies/866-375-2452 (from https://www.jump6.com/recipes/weight-loss-and-fat-burning-smoothies/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3292
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3292 to https://www.jump6.com/recipes/meal-prep-ideas/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/meal-prep-ideas/866-375-2452 (from https://www.jump6.com/recipes/meal-prep-ideas/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3289
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3289 to https://www.jump6.com/recipes/black-bean-chili/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/recipes/black-bean-chili/866-375-2452 (from https://www.jump6.com/recipes/black-bean-chili/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/2019/01/page/2/866-375-2452 (from https://www.jump6.com/2019/01/page/2/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/2019/01/page/3/866-375-2452 (from https://www.jump6.com/2019/01/page/3/)
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/2019/01/page/4/866-375-2452 (from https://www.jump6.com/2019/01/page/4/)
+14:33:03	Warning: 	Moved Permanently for https://www.jump6.com/?p=3519
+14:33:03	Warning: 	File has moved from https://www.jump6.com/?p=3519 to https://www.jump6.com/before-after-photos-toronto/patients/3519/
+14:33:03	Error: 	"Not Found" (404) at link https://www.jump6.com/before-after-photos-toronto/patients/3519/866-375-2452 (from https://www.jump6.com/before-after-photos-toronto/patients/3519/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 8 seconds : 744 links scanned, 514 files written (27006761 bytes overall) [24969576 bytes received at 100683 bytes/sec], 7392892 bytes transferred using HTTP compression in 468 files, ratio 28%, 29.9 requests per connection
+(131 errors, 195 warnings, 0 messages)

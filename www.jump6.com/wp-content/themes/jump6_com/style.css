@@ -1,0 +1,373 @@
+/*
+Theme Name: Kaila, Sajeev (jump6.com)
+Author: NKP Development Team
+Description: NKP Medical responsive theme
+Template: nkpv2
+*/
+
+/*---- Do Not Remove ----*/
+@import url(../../../../static.nkpmedical.com/unsemantic/css/nkp.min.css);
+@import url(../../../../static.nkpmedical.com/stellarnav/stellarnav.min.css);
+/*---- Do Not Remove ----*/
+
+/*@import url("https://use.typekit.net/zsx4wcu.css");*/
+@import url("../../../../use.typekit.net/xwe8dcy.css");
+
+/*---- GENERAL ----*/
+body{-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: proxima-nova,sans-serif;}
+h1 { font-size: 22px; line-height: 44px; }
+h2{}
+h3{font-size:40px; font-weight:700; color:#333333; margin-bottom:45px; line-height:40px;}
+
+a, a:visited, a:link {color:#1174a6; text-decoration:none; outline:none; -webkit-transition:all .5s ease-out; -moz-transition:all .5s ease-out; transition:all .5s ease-out;}
+a:hover {color:#09557c; text-decoration:none; outline:none;}
+ul, ol {clear:both;}
+ul.children {
+    padding-left: 15px;
+}
+p { margin-bottom: 10px; }
+
+.fl {float:left;} .fr {float:right;} .fn {float:none; display:inline-block;}
+.tal {text-align:left;} .tar {text-align:right;} .tac {text-align:center;}
+.clr-l {clear:left;} .clr-r {clear:right;} .clr, .clear {clear:both;}
+.nodisp {display:none;}
+
+/* NKP GLOBAL STYLES */
+img {border:0px;}
+.img-resp, .img-responsive {max-width:100%; height:auto;}
+img.left, img.alignleft, .img-l {float:left; margin:10px 15px 0px 0px;}
+img.right, img.alignright, .img-r {float:right; margin:10px 0px 0px 15px;}
+.phoneNumbs {  margin-bottom: 10px; text-align: right; display: block; font-size: 18px;}
+.phoneNumbs a { color: #6a62c6;}
+.established {
+    padding: 20px;
+    text-align: center;
+}
+.top-right-info { background: rgba(106, 98, 198, 0.5); }
+iframe{width:100%; height:500px;}
+.entry-utility {
+    display: none;
+}
+.blog img.attachment-full.size-full.wp-post-image {
+    width: 100%;
+    height: auto;
+}
+.embed-responsive{ position: relative; padding-bottom: 56.25%; /* 16:9 */ padding-top: 25px; height: 0; margin-bottom:20px }
+.embed-responsive iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid #ccc; }
+input, select, textarea {-webkit-transition:all .5s ease-out; -moz-transition:all .5s ease-out; transition:all .5s ease-out;}
+
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form input[type="tel"], .contact-form input[type="url"], .contact-form textarea { width: 100%; border: 1px solid #CCC; background: #FFF; margin: 0 0 10px; padding: 15px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; }
+.contact-form input[type="text"]:focus, .contact-form input[type="email"]:focus, .contact-form input[type="tel"]:focus, .contact-form textarea:focus {background:rgba(1,105,147,0.4); color:#fff;}
+.contact-form input[type="submit"], .contact-form input[type="submit"][disabled] {width:100px; height:26px; background:#adadad; border:0px; color:#FFF; text-transform:uppercase; clear:both; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; outline:none;}.contact-form input[type="submit"]:hover, .contact-form input[type="submit"][disabled]:hover {background:#96bdda; border:2px solid #1174a6;}
+.contact-form textarea { height: 120px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; }
+.contact-form ::-webkit-input-placeholder { color: #777; } :-moz-placeholder { color: #777; } :-ms-input-placeholder { color: #777; }
+.contact-form input.wpcf7-captchar { width: 135px; }
+
+.wpcf7-form-control-wrap{width:100%; display:block!important;}
+.wpcf7-form-control-wrap.agree{display:inline-block!important;}
+/*
+ * .contact-form ::-webkit-input-placeholder { color: #444; } :-moz-placeholder { color: #444; } :-ms-input-placeholder { color: #444; }
+ * .contact-form input[type="submit"] { width: 165px; height: 38px; background: url(images/btn-submit.png); border: none; outline: none; text-indent: -9999px; cursor: pointer; display: block; clear: both; }
+ * html .contact-form input[type="submit"] {font-size:0;display:block;line-height:0}
+ * *+html .contact-form input[type="submit"] {font-size:0;display:block;line-height:0}
+ */
+.contact-form input.wpcf7-captchar { width: 135px; }
+.ajax-loader {}
+
+/* desktop view bxa gallery */
+.patient-content, .patient-listing {width: 48% !important; float:left;}
+.patient-list-image { width: 90%;}
+.patient-listing > div {width: 50%; float:left;}
+h3.patient-header {display: inline;}
+.patient-entry .patient-single {width: 50%}
+#nkp-testimonials-company .practiceAddress, span.review-rating-stars { display: none; }
+#sidebar .gallerySitemap {
+    display: none;
+}
+/* NKP GLOBAL STYLES */
+
+.clear{clear:both}
+
+/* Header STYLES */
+header{position: absolute; z-index: 3; left: 0; right: 0; margin-top: 29px;}
+/* Header STYLES */
+
+/* Stellarnav STYLES */
+#nav{background-color: #000; height: 50px;}
+.stellarnav > ul > li > a{padding: 20px 15px; color:#000;}
+.stellarnav li a:hover, .stellarnav li.current-menu-item a{color:#6a62c6}
+.stellarnav .call-btn-mobile, .stellarnav .close-menu, .stellarnav .location-btn-mobile, .stellarnav .menu-toggle{color:#000}
+.stellarnav.fixed {background: #6a62c6;}
+/* Stellarnav STYLES */
+#main { color: #353535; }
+#main p { color: #545454; margin-bottom: 20px;}
+#main h1 { font-size: 30px; line-height: 40px; border-left: 3px solid #967bc7; text-indent: 15px; margin-bottom: 15px; }
+#main h2 { font-size: 28px; line-height: 38px; margin-bottom: 15px; font-weight: 600; }
+#main h3 { font-size: 24px; line-height: 24px; margin: 15px 0px 7px 0px; font-weight: 600; }
+/* Slider STYLES */
+#slider {    position: relative; background:#d3dfd5; background:#e1e1e1}
+#slider .slides > li > div {    height: 961px;   background-repeat: no-repeat;    background-position: top center;   background-size: cover;}
+#slider .slide1 {    background-image: url(images/slide1.jpg);}
+#slider .slide1 h1{font-size:80px; color:#ffffff; font-weight:700; margin-top: 379px;line-height: normal; text-shadow: 2px 2px 10px rgba(0,0,0,0.26);}
+#slider .slide1 h1 span{font-weight:300}
+#slider h1{text-align:center}
+#slider a.learn_more_btn{display:block; margin:0 auto; margin-top:42px;}
+/* Slider STYLES */
+
+/* Jump Program Section STYLES */
+.jump-program{background: url(images/program_bg.jpg) no-repeat top center #fff;background-size: cover;padding: 140px 0; text-align:center}
+.jump-program .grid-60{margin: 0 auto;float: none;}
+.jump-program h3, .about-doctor h3, .testimonial h3, .photogallery h3{font-size:40px; font-weight:700; color:#333333; margin-bottom:45px; line-height:40px;}
+.jump-program h3 sup{font-size:17px; font-weight:400}
+.jump-program p{line-height:30px; font-size:16px; color:#666666; margin-bottom:33px;}
+.jump-program p strong{font-weight:600; color:#333}
+.jump-program p i{color:#6a62c6; font-weight:600; font-style:normal}
+.jump-program p span{color:#333333}
+.jump-program .btn, .testimonial .btn{background: #6a62c6;color: #fff;border-radius: 50px;padding: 18px 90px;font-size: 16px;line-height: 30px;display: inline-block;}
+/* Jump Program Section STYLES */
+
+/* About Doctor Section STYLES */
+.about-doctor{padding:150px 0px; text-align:center}
+.doctorvideo{position: relative;max-width: 930px;margin: 0 auto;}
+.doctorlogoimg{position: absolute;left: -243px;top: 50%;margin-top: -314px;}
+/* About Doctor Section STYLES */
+
+/*.blog{display:none}*/
+.blog .feat-img {float:left; padding:10px; }
+.main .feat-img.single {float: none; margin: 30px 0; text-align: center;}
+.pagination-wrapper a.inactive {padding: 5px;}
+.pagination-wrapper .current, .page-numbers.current {border: 1px solid; padding: 2px 3px;}
+
+/* Testimonial Section STYLES */
+.testimonial{background: url(images/testimonial_bg.jpg) no-repeat top center #161314;background-size: cover;padding: 140px 0; color:#ffffff}
+.testimonial-by{ font-weight:600; margin-bottom:30px; color:#ffffff}
+.testimonial-by span{color:#6a62c6; margin-right:7px;}
+.testimonial-by span.fa-star{color:#f6bb07; margin-right: 3px;font-size: 19px;}
+.testimonial p{font-size:16px; line-height:30px; color:#eeeeee; margin-bottom: 56px;}
+.testimonial h3{color:#ffffff}
+/* Testimonial Section STYLES */
+
+/* photogallery Section STYLES */
+.photogallery{display:none; background: url(images/photogallery_bg.jpg) no-repeat top center #161314;background-size: cover;padding: 140px 0; padding-bottom:225px; color:#333333}
+.photogallery p{line-height:30px; font-size:16px; color:#333333; margin-bottom:50px; padding-right: 10%;}
+/* photogallery Section STYLES */
+.gallerySide, .gallerySitemap {
+    display: none;
+}
+/* Footer Two Boxes Section STYLES */
+.home_sub_boxes{background:#ffffff; padding:150px 0px; font-size:16px; line-height:30px;}
+.mommy_makeover{background: url(images/mommy_makeovers.jpg) no-repeat top center #171918;color:#ffffff; text-align:center; padding:268px 10% 50px; background-size: 100% auto;}
+.mommy_makeover p, .men_makeover p{margin:15px auto 25px; width: 90%;}
+.men_makeover{background: url(images/men_makeovers.jpg) no-repeat top center #171918; color:#ffffff; text-align:center; padding:268px 10% 50px; background-size: 100% auto;}
+.home_sub_boxes h3{font-weight:700; font-size:40px; color:#ffffff; margin-bottom:0px;}
+/* Footer Two Boxes Section STYLES */
+
+/* Common For Site STYLES */
+a.learn_more_btn, input.wpcf7-submit{background:#6a62c6; width:270px;max-width:100%; height:61px; text-align:center; color:#ffffff; font-size:16px; display:inline-block; line-height:60px;border-radius: 35px; border:0px; font-family:proxima-nova,sans-serif; cursor: pointer; }
+a.learn_more_btn:hover, input.wpcf7-submit:hover{color:#ffffff; background:#413999}
+/* Common For Site STYLES */
+
+/* Footer STYLES */
+.footer-area{background:#21201e; padding:113px 0px;}
+.footer-area h3{color:#ffffff; font-size:40px; font-weight:700; margin-bottom:45px; text-align:center}
+.footernav li{margin:40px 0px;}
+.footernav li a{color:#ffffff }
+.footernav li a:hover{color:#6a62c6}
+.social-media li{display:inline-block; margin-right:15px;}
+.social-media a{color:#ffffff}
+footer{background:#1d1c1a; padding:80px 0px; color:#797979}
+footer a{color:#797979!important}
+footer .fa.fa-th-large{color:#6a62c6; margin-right:5px;}
+.social-media .fa{font-size:18px;}
+.wpcf7-form{color:#333; font-size:15px; font-weight:300}
+.footer-area .wpcf7-form{color:#ffffff; font-size:15px; font-weight:300}
+
+.wpcf7-form a{color:#6a62c6	}
+.footer-area input.wpcf7-text, .footer-area textarea.wpcf7-textarea, .footer-area input.wpcf7-captchar{background:#1d1c1a; border:0px; color:#ffffff; height:46px; line-height:46px; padding:0px 30px; margin-bottom:3px;  font-family: proxima-nova,sans-serif; font-size:15px; box-sizing: border-box; width: 100%; }
+.footer-area .half .wpcf7-form-control-wrap.captcha-118{width:50%; float: left;}
+.footer-area .half .wpcf7-captchac{margin-left:15px; margin-top: 10px;}
+.footer-area .wpcf7-response-output.wpcf7-mail-sent-ok{color:#ffffff!important}
+.footer-area textarea.wpcf7-textarea{height: 267px;line-height: 30px;padding-top: 10px;padding-bottom: 10px;}
+.footer-area .wpcf7-form-control-wrap.acceptance-305{display:inline-block!important; width:auto}
+.footer-area .wpcf7-form-control-wrap.acceptance-305 span.wpcf7-list-item{margin:0px;}
+.footer-area input.wpcf7-submit{margin-top:12px;}
+.footer-area iframe{height:auto}
+.wpcf7 .half.fl p{margin:10px 0px 20px 0px;}
+.footer-area input::placeholder{color:#ffffff}
+.footer-area label.half{width:48%; margin-bottom:15px;}
+.footer-area label.full{width:100%; margin-bottom:15px;}
+.footer-area ::-webkit-input-placeholder {   color: #ffffff;/* Chrome/Opera/Safari */}
+.footer-area ::-moz-placeholder {   color: #ffffff; /* Firefox 19+ */}
+.footer-area :-ms-input-placeholder {   color: #ffffff;/* IE 10+ */}
+.footer-area :-moz-placeholder {   color: #ffffff;/* Firefox 18- */}
+.footer-area ::-moz-placeholder {  opacity: 1;}
+div.wpcf7-response-output{clear: both;  margin-top: 10px !important; border:0px!important; padding:0px!important; color:#ff0000!important}
+.error_gap{height:10px; clear:both}
+
+/* Footer STYLES */
+
+/* Inner pages STYLES */
+/* Inner header STYLES */
+.internal#slider .slides > li > div{ height:553px;     background-image: url(images/slide1-inner.jpg); background-position-y: -53px;}
+.internal#slider .slide1 h1{margin-top: 225px; font-size: 52px;}
+input.wpcf7-text, textarea.wpcf7-textarea, input.wpcf7-captchar, select {background: #ffffff;border: 0px;color: #000;border: 1px solid #CCC;height: 46px;line-height: 46px;padding: 0px 20px;margin-bottom: 3px;font-family: proxima-nova,sans-serif;font-size: 15px;box-sizing: border-box;width: 100%;}
+select{color: rgba(0,0,0,0.6) !important;}
+ textarea.wpcf7-textarea{height:100px;}
+.contactpage-form{margin-top:40px;}
+.contactpage-form  .grid-100.grid-parent {margin-bottom: 15px;}
+.contactpage-form .captcha{position:relative}
+.contactpage-form .captcha img {    position: absolute;    top: 10px;   right: 30px;}
+.contactpage-form .wpcf7-form-control-wrap.acceptance-741 {   display: inline-block !important;    width: auto;}
+.contactpage-form span.wpcf7-list-item{margin:0px;}
+.contactpage-form input.wpcf7-submit{height:47px; line-height:47px;}
+.contactpage-form .wpcf7-mail-sent-ok{color:#009933!important}
+
+/* Inner header STYLES */
+
+/* Inner Content STYLES */
+.inner-pages-content{font-size:16px; line-height:32px; font-weight:300}
+.inner-pages-content p{margin-top:30px;}
+.internal {height: 500px;overflow: hidden; margin-bottom:30px;}
+.inner-pages-content h1{font-size:40px; font-weight:700; margin:0px; }
+.bred-crum{font-weight: 400;padding-top: 15px;display: block;line-height: 18px; padding-bottom:25px;}
+.bred-crum strong{color:#6a62c6; font-weight:700}
+p.nogap{margin:0px; }
+.inner-pages-content .content-pic.img-l{margin:0px; margin-right:28px; margin-bottom:35px;}
+#sidebar .content-box{position:absolute; font-size:40px; font-weight:700; width: calc(100% - 30px); text-align:center; top:45%;color: #fff; transition: all .2s ease-out;}
+#sidebar .box:hover .content-box{letter-spacing:1px }
+
+#sidebar .box{position:relative; margin-bottom:10px;}
+
+#sidebar .archives { margin: 12px; background: #DDE9DF;text-indent: 10px; }
+#sidebar .archives h3 { font-size: 22px; margin-bottom: 0px;}
+#sidebar .archives ul li { padding: 1px 10px; display: block; text-indent: 10px; background: #fff; margin-bottom: 1px;}
+#sidebar .archives ul li:hover {background: #DDE9DF;}
+.blog ul { list-style-position: outside; list-style: disc; color: #3a3a3a; margin: 10px 0px 10px 35px; }
+.blog ol{ list-style-position: outside; margin-left: 35px; list-style: decimal; }
+/* Inner Content STYLES */
+
+
+
+
+@media only screen and (max-width: 740px) {
+.phoneNumbs { margin-top: 0px; margin-bottom: 10px; text-align: center !important; display: block; font-size: 18px;}
+.patient-content, .patient-listing { width: 100% !important; float: none; }
+.patient-entry .patient-single { width: 100%; }
+iframe{width:100%; height:280px;}
+#logo{text-align:center; margin-bottom: 5px;}
+#logo img{max-width: 170px;}
+
+.menu-toggle.full{width: 100px;position: absolute;right: 0px;top: 26px; color:#000000}
+#slider .slide1{background:url(images/banner-mobile.jpg) #d3dfd5}
+#slider .slides > li > div{height: 640px;background-repeat: no-repeat;background-position: bottom center;background-size: 100%;}
+#slider .slide1 h1 {font-size: 39px;margin-top: 300px;}
+#slider a.learn_more_btn{margin-top: 12px;}
+header{margin-top: 10px;}
+.stellarnav.mobile > ul{background:#2d2d2d}
+.stellarnav li a{padding: 20px 15px !important; color:#ffffff}
+a.learn_more_btn{height: 50px; line-height: 50px;}
+input.wpcf7-submit{width: 200px;height: 50px; line-height: 50px;}
+.jump-program, .about-doctor, .testimonial, .photogallery, .home_sub_boxes, .footer-area{padding: 50px 0;}
+.jump-program h3, .about-doctor h3, .testimonial h3, .photogallery h3{font-size: 30px;margin-bottom: 20px;}
+.testimonial {    background: #161314; text-align:center; padding-bottom:0px;}
+.testimonial-by span.fa-star{font-size: 14px;margin-right: 5px;}
+.testimonial-by span{margin-right: 5px;}
+.mobile-testimonial-img, .mobile-photogallery-img{padding-top: 25px;clear: both;}
+.testimonial p{margin-bottom: 30px;}
+.photogallery{background:#ffffff; text-align:center; padding-bottom: 0px;}
+.home_sub_boxes h3{font-size: 30px;}
+.home_sub_boxes .grid-50{margin-bottom:30px;}
+.mommy_makeover p, .men_makeover p{width: 100%;}
+.footer-area h3{text-align:left}
+.footer-area .grid-55{margin-top:40px;}
+.footer-area label.half {width: 100%;}
+input.wpcf7-submit{margin-top: 15px;margin-bottom: 0px;}
+footer {background: #1d1c1a; padding: 30px 0px;   color: #797979; font-size: 15px;  line-height: 25px;}
+#sidebar{margin-top:50px; padding: 0px 0px;}
+#sidebar .box{width: 100%; max-width:100%;}
+#sidebar .box img{width:100%; height:auto}
+.internal{height: 400px;}
+.internal#slider .slides > li > div { background:url(images/slide1-inner-mobile.jpg) #d3dfd5; height: 400px;    background-repeat: no-repeat;   background-size: 100%; background-position: bottom center;}
+/*.internal#slider .slides > li > div{}*/
+.internal#slider .slide1 h1 {margin-top: 200px; font-size: 33px;}
+.internal{overflow:visible}
+.mobile-grid-parent{padding:0px;}
+.inner-pages-content h1{font-size:30px;}
+.inner-pages-content p { margin-top: 20px;}
+#sidebar .content-box{width: calc(100% - 30px);}
+.wpcf7 .half.fr.tar{text-align:left}
+.mommy_makeover, .men_makeover{padding: 268px 8% 50px;}
+textarea.wpcf7-textarea {    height: 150px;}
+.testimonial-by{font-size: 15px;}
+.contactpage-form .grid-100.grid-parent{margin-bottom:0px!important;}
+.contactpage-form .grid-50, .contactpage-form .grid-20, .contactpage-form .grid-25, .contactpage-form .grid-40, .contactpage-form .grid-55, .contactpage-form .grid-100{margin-bottom:15px !important; padding:0px;}
+.stellarnav > ul > li > a {color:#fff;}
+.stellarnav li a {color: #000;}
+
+
+
+}/*MOBILE*/
+
+@media only screen and (max-width: 960px) and (min-width: 768px) {
+#logo{text-align:center}
+#logo img{width: 170px;}
+header{margin-top: 10px;}
+.top-right-info{position:relative}
+#slider .slide1 h1 {    font-size: 50px;}
+#slider .slides > li > div {    height: 820px;}
+#slider .slides > li > div {background-position-y: bottom; background-size: 1656px; height: 620px;}
+#slider .slide1 h1{margin-top: 250px;}
+.stellarnav > ul > li > a {color:#fff;}
+.stellarnav.mobile > ul{background:#2d2d2d; position: absolute;width: 100%;left: 0px;top: 50px;}
+.stellarnav li a{padding: 20px 15px !important; color:#000}
+
+.jump-program, .about-doctor, .testimonial, .photogallery, .home_sub_boxes, .footer-area{padding: 60px 0;}
+.doctorvideo{width: 75%;}
+.doctorlogoimg{height: 280px;margin-top: -140px; left: -100px;}
+.home_sub_boxes h3 {  font-size: 31px;}
+.menu-toggle.full{width: 100px;position: absolute;right: 0px;top: 26px; color:#000000}
+.stellarnav.mobile.active{margin-top:0px}
+.footer-area h3{text-align:left}
+.footer-area .grid-55{margin-top:40px;}
+#sidebar{margin-top:50px;}
+.internal#slider .slide1 h1 {margin-top: 235px;}
+.internal{overflow:visible; max-height:410px;}
+.tablet-grid-parent{padding:0px;}
+#sidebar .content-box{width: calc(100% - 30px);font-size: 22px;top: 43%;}
+.testimonial-by{font-size: 15px;}
+textarea.wpcf7-textarea {    height: 150px;}
+.mommy_makeover p, .men_makeover p{width:100%}
+.internal#slider .slides > li > div { background:url(images/slide1-inner-mobile.jpg) #d3dfd5; height: 410px;    background-repeat: no-repeat;   background-size: cover; background-position-y: -16px;}
+
+.contactpage-form .grid-100.grid-parent{margin-bottom:0px!important;}
+.contactpage-form .grid-50, .contactpage-form .grid-20, .contactpage-form .grid-25, .contactpage-form .grid-40, .contactpage-form .grid-55, .contactpage-form .grid-100{margin-bottom:15px !important; padding:0px;}
+
+}/*TABLET*/
+
+@media only screen and (max-width: 1024px) and (min-width: 961px) {
+#logo{text-align:center}
+header{margin-top: 10px;}
+#slider .slide1 h1 {    font-size: 60px;}
+.stellarnav li a{ /*padding: 20px 0px 0px 30px !important;*/ font-size: 14px;}
+#slider .slides > li > div {background-position-y: bottom;  background-size: 2000px; height: 750px;}
+#slider .slide1 h1{margin-top:300px;}
+.jump-program, .about-doctor, .testimonial, .photogallery, .home_sub_boxes, .footer-area{padding: 70px 0;}
+.doctorvideo{width: 75%;}
+.doctorlogoimg{height: 280px;margin-top: -140px; left: -100px;}
+.testimonial{background-position-x: 52%;background-size: cover;}
+.photogallery{background-position-x: 44%;background-size: cover;}
+#sidebar{margin-top:50px; padding: 0px 15px;}
+.internal {    height: 400px;}
+.internal#slider .slides > li > div {   background-position-y: bottom;    background-size: 2000px;    height: 400px;}
+
+}/*960 DESKTOP*/
+@media only screen and (max-width: 1460px) and (min-width: 1030px) {
+.doctorvideo{max-width: 730px;}
+.doctorlogoimg {    position: absolute;    left: -200px;    top: 50%;    margin-top: -250px;    height: 500px;}
+
+}
+
+@media only screen and (max-width: 1150px) and (min-width: 1025px) {
+.stellarnav li a{padding: 20px 0px 20px 24px !important; font-size: 15px;}
+
+}
