@@ -117,8 +117,8 @@
 								<div class="container">
 									<div class="label-input-wrapper checkboxes">
 										<label class="main-label">Location</label>
-										<label><input type="checkbox" id="filter_location" placeholder="Auto: My Location"> Only results within map bounds</label>
-										<label><input type="checkbox" id="filter_location" placeholder="Auto: My Location"> Only results near me</label>
+										<label><input type="checkbox" id="filter_location"> Only results within map bounds</label>
+										<label><input type="checkbox" id="filter_location"> Only results near me</label>
 									</div>
 									<div class="label-input-wrapper">
 										<label class="main-label">Tags</label>
@@ -129,7 +129,21 @@
 									<div class="label-input-wrapper">
 										<label class="main-label">Rating</label>
 										<div class="left margin-top-10">
-											<input type="number" name="filter_rating_min" id="filter_rating_min" placeholder="0" min="0" max="5"> to <input type="number" name="filter_rating_max" id="filter_rating_max" placeholder="5" min="0" max="5">
+											<select name="filter_rating_min" id="filter_rating_min">
+											    <option value="1">1</option>
+											    <option value="2">2</option>
+											    <option value="3">3</option>
+											    <option value="4">4</option>
+											    <option value="5">5</option>
+											</select> 
+											to 
+											<select name="filter_rating_max" id="filter_rating_max">
+											    <option value="1">1</option>
+											    <option value="2">2</option>
+											    <option value="3">3</option>
+											    <option value="4">4</option>
+											    <option selected value="5">5</option>
+											</select>
 										</div>
 									</div>
 									<div class="label-input-wrapper">
@@ -154,9 +168,10 @@
 							<table itemscope itemtype="http://schema.org/Place" id="table">
 							<meta itemprop="worstRating" content = "0">
 							<meta itemprop="worstRating" content = "5">
-								<tr><th></th><th>Location</th><th class="unimportant">Rating</th><th class="unimportant">Time</th><th class="nodisp"></th></tr>
-								<tr><td><img itemprop="photo" src="/img/placeholders/resultsimg.jpg" alt="place-holder"></td><td>Hamilton</td><td class="unimportant" itemprop="ratingValue">4</td><td class="unimportant">Day</td><td class="nodisp" itemprop="location" itemscope>Latitude: 40.741895 N | Longitude: -73.989308 W</td></tr>
-								<tr><td><img src="/img/placeholders/resultsimg.jpg" alt="place-holder"></td><td>Hamilton</td><td class="unimportant">4</td><td class="unimportant">Day</td><td class="nodisp" itemprop="location" itemscope>Latitude: 40.741895 N | Longitude: -73.989308 W</td></tr>
+								<tr><th></th><th></th><th>Location</th><th class="unimportant">Rating</th><th class="unimportant">Time</th><th class="nodisp"></th></tr>
+								<tr><td><img src="../img/icons/markerA.png" alt=""></td><td><img itemprop="photo" src="/img/placeholders/resultsimg.jpg" alt="place-holder"></td><td>Hamilton</td><td class="unimportant" itemprop="ratingValue">4</td><td class="unimportant">Day</td><td class="nodisp" itemprop="location" itemscope>Latitude: 40.741895 N | Longitude: -73.989308 W</td></tr>
+								<tr><td><img src="../img/icons/markerB.png" alt=""></td><td><img src="/img/placeholders/resultsimg.jpg" alt="place-holder"></td><td>Hamilton</td><td class="unimportant">4</td><td class="unimportant">Day</td><td class="nodisp" itemprop="location" itemscope>Latitude: 40.741895 N | Longitude: -73.989308 W</td></tr>
+								<tr><td><img src="../img/icons/markerC.png" alt=""></td><td><img src="/img/placeholders/resultsimg.jpg" alt="place-holder"></td><td>Hamilton</td><td class="unimportant">4</td><td class="unimportant">Day</td><td class="nodisp" itemprop="location" itemscope>Latitude: 40.741895 N | Longitude: -73.989308 W</td></tr>
 							</table>
 						</div>
 						</fieldset>
@@ -180,7 +195,7 @@
 	<script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjEq7iq3MF3DYNTHU9kuc0Q7bRFMvPFHk&libraries=places&callback=initMap">
     </script>
-	
+	<script type="text/javascript" src="js/map.js"></script>
 	<script type="text/javascript" src="js/document.js"></script>
 </body>
 

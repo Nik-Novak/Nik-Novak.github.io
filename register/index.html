@@ -95,11 +95,15 @@
 					<h2>Register</h2>
 					<i class="fa fa-2x fa-angle-down"></i>
 				</div>
-				<form action="">
+				<form onsubmit="return formSubmit();">
 					<input type="text" name="username" id="input_username" placeholder="Username">
+					<p></p>
 					<input type="email" name="email" id="input_email" placeholder="E-mail">
+					<p></p>
 					<input type="password" name="password" id="input_password" placeholder="Password">
+					<p></p>
 					<input type="password" name="confirmpassword" name="input_confirmpassword" id="input_confirmpassword" placeholder="Confirm Password">
+					<p></p>
 					<label><input type="checkbox" name="terms" id="input_terms" value="agree"> I agree to <a href="/terms">Terms of Service</a></label>
 					<button type="submit">Create Account</button>
 				</form>

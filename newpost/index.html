@@ -95,7 +95,7 @@
 					<h2>New Post</h2>
 					<i class="fa fa-2x fa-angle-down"></i>
 				</div>
-				<form action="">
+				<form onsubmit="return formSubmit();">
 
 
 
@@ -187,7 +187,10 @@
 						</fieldset>
 					</div>
 					
-					<button type="button" onclick="test();">Submit Post</button>
+					<div  id="latitude" name="latitude"></div>
+					<div  id="longitude" name="longitude"></div>
+					
+					<button type="submit">Submit Post</button>
 					
 				</form>
 			</section>
@@ -207,7 +210,7 @@
 	<script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjEq7iq3MF3DYNTHU9kuc0Q7bRFMvPFHk&libraries=places&callback=initMap">
     </script>
-	
+	<script type="text/javascript" src="js/map.js"></script>
 	<script type="text/javascript" src="js/document.js"></script>
 </body>
 
